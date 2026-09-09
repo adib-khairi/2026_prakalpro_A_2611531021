@@ -99,7 +99,7 @@
     },
     "background.panel": {
 
-        "images": [],
+        "images": ["D:/XboxGames/.acsdasddsa.jpg"],
         "opacity": 0.1,
         "size": "cover",
         "position": "center",
@@ -107,11 +107,11 @@
         "random": false
     },
     "background.sidebar": {
-
+        
         "images": ["C:/Users/USER/OneDrive/Pictures/8bbb0feb6a740a44c7edbc3a1e4d9d86.jpg"],
-        "opacity": 0.1,
+        "opacity": 0.2,
         "size": "cover",
-        "position": "center",
+        "position": "bottom",
         "interval": 0,
         "random": false
     },
