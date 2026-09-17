@@ -12,12 +12,12 @@ print(f"Total Belanja        : Rp{total_1021}")
 print(f"Jumlah Barang        : {jumlah_1021}")
 print(f"Kode Promo           : {promo_1021}")
 
-kode_promo_1021 = ["HEMAT10", "HEMAT20", "HIDUPMAHASISWA", "HIDUPFTI"]
+kode_promo_1021 = ["HEMAT10", "HEMAT20", "HIDUPMAHASISWA", "HIDUPFTI"] #list kode promo
 
-syarat_total_1021 = total_1021 >= 200000
-syarat_jumlah_1021 = jumlah_1021 >= 3
-status_valid_1021 = status_1021 == "member"
-promo_valid_1021 = promo_1021 in kode_promo_1021
+syarat_total_1021 = total_1021 >= 200000 # apakah memenuhi syarat belanja
+syarat_jumlah_1021 = jumlah_1021 >= 3 # apakah memenuhi syarat barang
+status_valid_1021 = status_1021 == "member" # apakah user member
+promo_valid_1021 = promo_1021 in kode_promo_1021 # apakah kode promo ada dalam list
 
 print("\n=== HASIL VALIDASI ===")
 print(f"Belanja >= Rp200000        : {syarat_total_1021}")
