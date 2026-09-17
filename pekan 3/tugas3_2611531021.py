@@ -64,7 +64,7 @@ print("\n=== Perbandingan Status ===")
 print(f"Kode Transaksi : {format(kode_transaksi_1021,"04b")}")
 print(f"Kode Referensi : {format(kode_referensi_1021,"04b")}")
 print(f"{format(kode_transaksi_1021,"04b")} ^ {format(kode_referensi_1021,"04b")}")
-print(f"Hasil Biner   : {format((kode_transaksi_1021) ^ 11,"04b")}")
+print(f"Hasil Biner   : {format((kode_transaksi_1021) ^ (kode_referensi_1021),"04b")}")
 print(f"Hasil Desimal : {(kode_transaksi_1021) ^ (kode_referensi_1021)}")
 
 print("\n=== Shift ===")
