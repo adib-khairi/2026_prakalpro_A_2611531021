@@ -1,4 +1,43 @@
 {
+    "cSpell.words": [
+        "angka",
+        "animasi",
+        "armonic",
+        "bijak",
+        "buat",
+        "detik",
+        "dewasa",
+        "disekitarmu",
+        "efek",
+        "gambar",
+        "Hadiah",
+        "hari",
+        "Hilang",
+        "hitung",
+        "jangka",
+        "Jaringan",
+        "kartu",
+        "kata",
+        "kebaikan",
+        "leaft",
+        "membawa",
+        "menit",
+        "mundur",
+        "NAYSHA",
+        "roket",
+        "Selamat",
+        "semakin",
+        "Semoga",
+        "tahun",
+        "terus",
+        "tombol",
+        "tukar",
+        "ulang",
+        "Verdana",
+        "waktu",
+        "warna"
+    ],
+    "liveServer.settings.port": 5501,
     "code-runner.executorMapByFileExtension": {
 
         ".vb": "cd $dir && vbc /nologo $fileName && $dir$fileNameWithoutExt",
@@ -107,11 +146,11 @@
         "random": false
     },
     "background.sidebar": {
-        
+
         "images": ["C:/Users/USER/OneDrive/Pictures/8bbb0feb6a740a44c7edbc3a1e4d9d86.jpg"],
-        "opacity": 0.2,
+        "opacity": 0.1,
         "size": "cover",
-        "position": "bottom",
+        "position": "center",
         "interval": 0,
         "random": false
     },
