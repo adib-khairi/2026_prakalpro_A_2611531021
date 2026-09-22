@@ -156,5 +156,5 @@
     },
     "window.restoreWindows": "all",
     "window.openFoldersInNewWindow": "off",
-    "code-runner.runInTerminal": false
+    "code-runner.runInTerminal": true
 }
