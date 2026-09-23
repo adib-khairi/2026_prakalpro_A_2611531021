@@ -1,7 +1,4 @@
 ("=== SISTEM LOKET ALPRO ADVENTURE PARK ===")
-from unittest import case
-
-
 nama_1021 = input("Masukkan Nama Pengunjung        : ")
 umur_1021 = int(input("Input umur anda                 : "))
 sim_c_1021 = input("Apakah Anda Sudah Punya SIM C (y/t): ")[0].strip().lower()
